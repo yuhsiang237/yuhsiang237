@@ -1,5 +1,5 @@
 Hi! This is YU HSIANG.  👋  
-I'm a software developer in Taiwan.  
+I'm a software engineer in Taiwan.  
 I think the program will affect the next generation greatly.  
 
 Skills: C#, Java, C++ and Javascript ES6  
