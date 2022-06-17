@@ -2,7 +2,7 @@ Hi! This is YU HSIANG.  👋
 I'm a software engineer in Taiwan.  
 I think the program will affect the next generation greatly.  
 
-Skills: C#, Java, Javascript ES6, Typescript
+Skills: C#, Java, Javascript ES6, Typescript  
 Languages: English and Chinese (Traditional)  
 LeetCode: [Link](https://leetcode.com/umworksite/)  
 
