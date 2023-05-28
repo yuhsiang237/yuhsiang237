@@ -1,8 +1,8 @@
-Hi! This is YU HSIANG.  👋  
-I'm a software engineer in Taiwan.  
-I think the program will affect the next generation greatly.  
+My job is a software engineer.  
+I work to make a living 🤣, and the leisure activity is listening to rap.  
 
-Skills: C#, Java, Javascript ES6, Typescript  
+Skills: C#, Java, Javascript ES6 and Typescript.
+
 Languages: English and Chinese (Traditional)  
 LeetCode: [Link](https://leetcode.com/umworksite/)  
 
