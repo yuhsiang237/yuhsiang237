@@ -1,5 +1,4 @@
 My job is a software engineer.  
-I work to make a living 🤣, and the leisure activity is listening to rap.  
 
 Skills: C#, Javascript ES6
 
