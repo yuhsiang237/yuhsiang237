@@ -1,7 +1,7 @@
 My job is a software engineer.  
 I work to make a living 🤣, and the leisure activity is listening to rap.  
 
-Skills: C#, Java, Javascript ES6 and Typescript.
+Skills: C#, Javascript ES6
 
 Languages: English and Chinese (Traditional)  
 LeetCode: [Link](https://leetcode.com/yuhsiang237/)  
