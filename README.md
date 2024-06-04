@@ -2,7 +2,7 @@ Hi I'm Yu Hsiang.
 My job is a software engineer.  
 
 Skills: C#, Javascript ES6, Vue3  
-Ever used: JAVA, Typescript  
+Ever used: JAVA, Typescript, C++  
 
 Languages: English and Chinese (Traditional)  
 LeetCode: [Link](https://leetcode.com/yuhsiang237/)  
