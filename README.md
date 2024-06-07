@@ -1,5 +1,6 @@
-Hi I'm Yu Hsiang.  
-My job is a software engineer.  
+Hi, I'm Yu Hsiang.  
+I like camping, anime, culture of Japan.  
+Btw, my job is the software engineer.  
 
 Skills: C#, Javascript ES6, Vue3  
 Ever used: JAVA, Typescript, C++, python3  
