@@ -1,9 +1,11 @@
 Hi, I'm Yu Hsiang.  
-I like camping, anime, culture of Japan.  
-Btw, my job is the software engineer.  
+I like camping, anime and culture of Japan.  
 
-Skills: C#, Javascript ES6, Vue3  
-Ever used: JAVA, Typescript, C++, python3  
+Finding a specific goal is more important than the skills you have 'cause the skills will be upgrade, and ones will be replaced by new ones.  
+I just focus on what I want, and enjoy my life. 人生は一度きりです
+
+The skills I have encountered:  
+C#, Javascript ES6, JAVA, Typescript, C++, python3 and Vue3
 
 Languages: English and Chinese (Traditional)  
 LeetCode: [Link](https://leetcode.com/yuhsiang237/)  
