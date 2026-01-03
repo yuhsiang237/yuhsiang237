@@ -1,8 +1,13 @@
+### Intro
 Hi, I'm Yu Hsiang.  
-我會美術設計跟一些前端技能。  
-也許過去沒辦法很自信的說我會設計，但經歷過幫人設計logo、形準學習、打光學習，讓我的這些能力更自在掌握。  
+I enjoy creating and designing :>  
+I’m currently focusing on becoming a visualizer. 
 
-Skills: Javascript ES6, Vue3, HTML, CSS , TypeScript (Worked with TypeScript in production) 
+**“It’s not about meaning — it’s about trusting my instincts.”**
 
-網站履歷(Vue3)：https://yuhsiang237.github.io/showcase/  
-程式筆記：https://yuhsiang237.github.io/  
+### Creative Skills  
+✦ **Design**  - Figma, Adobe PS, Ai, In Design, AE, CSP  
+✦ **Web**  - Javascript, Typescript, SCSS, HTML
+
+
+Resume: [here](https://yuhsiang237.github.io/showcase/)
