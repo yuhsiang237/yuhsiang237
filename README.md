@@ -10,4 +10,4 @@ And... I love hip-hop.
 ✦ **Web**  - Javascript, Typescript, SCSS, HTML
 
 
-Resume: [here](https://yuhsiang237.github.io/showcase/)
+Resume: [here](https://yuhsiang237.github.io/RefineDesign/)
